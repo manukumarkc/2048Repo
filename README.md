@@ -1,5 +1,6 @@
 
 2048 gamming application:
+![Alt text](https://raw.githubusercontent.com/manukumarkc/2048Repo/main/Screenshot%202025-03-17%20at%2013.45.17.png)
 
 demonstartion:
 creating cluster:
